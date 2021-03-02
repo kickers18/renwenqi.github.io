@@ -12,18 +12,18 @@
 <p class="blue"> 
 <strong>Personal Information</strong><br /> 
 </p> 
-<p class="serif"> 
-<strong>Lab Homepage:</strong> <a href="http://www.mbit.ustc.edu.cn" target="_blank">http://www.mbit.ustc.edu.cn </a> <br /> 
-<strong>Hikvision Research Insititute </strong>Senior Engineer <br /> 
+<p class="serif">  
+<strong>Hikvision Research Insititute, Senior Algorithm Engineer <br /> 
 <strong>E-Mail: </strong>renwenqi@hikvision.com <br /> 
 <strong>Tel:</strong> +86-13721022779 
+<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="192" height="288" id="tp1" /></div></td> 
 </a> 
 </p> 
 <p class="blue"> 
 </p> 
 </div> 
 </td> 
-<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="192" height="288" id="tp1" /></div></td> 
+
 
   
 </div> 
