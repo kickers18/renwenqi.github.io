@@ -1,4 +1,3 @@
-<body bgcolor=#F5F5F5> 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="HolmesIcon1470473453" width="20" height="20" style="display: none !important;"><param name="movie" value="http://eiv.baidu.com/hmt/icon/11.swf" /><param name="flashvars" value="s=http://tongji.baidu.com/hm-web/welcome/ico?s=cda32e0ee77ec161ec71bde6e593b350" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" name="HolmesIcon1470473453" width="20" height="20" src="http://eiv.baidu.com/hmt/icon/11.swf" flashvars="s=http://tongji.baidu.com/hm-web/welcome/ico?s=cda32e0ee77ec161ec71bde6e593b350" allowscriptaccess="always" /></object> 
 <div id="perbgcolor"> 
 <div id="permain"> 
