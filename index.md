@@ -118,15 +118,12 @@ Photonics West BiOS 2016, San Francisco (Oral Presentation)<br />
 <strong>Patent</strong><br /> 
 1. 实用新型专利：“一种多模态阴道镜系统”，<strong>任文奇</strong>，张世武, 授权公告号：CN204410775U，公开日期：2015.6.24 <a href="papers/patent-2015.pdf" target="_blank">Link</a><br /> 
 <br /> 
-<strong>Papers under review</strong><br /> 
-1. DMD-based structured-illumination microscopy for hyperspectral imaging, optical sectioning and 3D reconstruction, <strong>joint first author</strong>, submitted to Biomedical Optics Express<br /> 
-2. Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, <strong>first author</strong>,submitted to Journal of Medical Devices<br /> 
-</strong></br> 
+
 <hr /> 
 <div class="updatetime"> 
 <p class="serif"> 
 <span>Last modified: 2016-08-07.</span><br \="" /> 
-<span>Any comments or questions, please feel free to contact <a href="mailto:rwq1112@mail.ustc.edu.cn">Wenqi Ren</a></></span> 
+<span>Any comments or questions, please feel free to contact <a href="mailto:renwenqi@hikvision.com">Wenqi Ren</a></></span> 
 </div> 
 </palign> 
 </p> 
