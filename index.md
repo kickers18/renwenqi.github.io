@@ -27,7 +27,7 @@
 </p> 
 </div> 
 </td> 
-<td width="100%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="384" height="576" id="tp1" /></div></td> 
+<td width="100%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="384/2" height="576/2" id="tp1" /></div></td> 
 
   
 </div> 
