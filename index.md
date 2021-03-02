@@ -58,39 +58,7 @@ PMPI, USTC, Hefei, China<br />
 <p class="serif"> 
 My research interests concentrate on the development of <strong>multimodal optical imaging for biomedical applications</strong>. I have finished three projects about multimodal imaging as team leader, including a <strong>simultaneous dual-modal imaging system for tissue oxygenation and perfusion measurement</strong>, a <strong>multispectral, auto fluorescence and RGB imaging system for early screening of cervical cancer</strong>, and a <strong>hyperspectral and optical sectioning microscopic system based on structured illumination</strong>. I am familiar with designing of optical-mechanical-electrical system, computer programming, image processing, data analysis, optical phantom fabrication and scientific paper writing. I have made two oral presentations on SPIE Photonics West conference in 2014 and 2016 respectively. Currently, I am quite interest in the work about high resolution imaging in deep tissue and eliminating specular reflectance on tissue surface.<br /> 
 </p><p class="blue"> 
-<strong>Project Experience</strong> <br /> 
-</p> 
-<p class="serif"> 
-<strong>2015.8-2016.5</strong>:<strong> </strong>Mentor: Prof. Ronald X. Xu, BME, OSU<br /> 
-<strong>Project: DMD-based structured-illumination microscopy for hyperspectral imaging, optical sectioning and 3D reconstruction</strong> <br /> 
-This is the project I cooperated with Dr. Peng Liu at OSU. We developed a hyperspectral Structured Illumination Microscopy (SIM) system that combined hyperspectral imaging, optical sectioning and 3D reconstruction into one single device. The system was demonstrated on a tissue-simulating phantom, mixed fluorescence pollen grains sample and Chicken chorioallantoic membrane (CAM) samples, which showed its potential of comprehensive assessment of biological tissues. 
-<br /> 
-</p> 
-<p class="serif"> 
-<strong>2014.8-2015.7</strong>:<strong> </strong>Mentor: Prof. Ronald X. Xu, PMPI, USTC<br /> 
-<strong>Project: Multimodal colposcopy for <em>in vivo</em> detection of cervical intraepithelial neoplasia (CIN)</em></strong> <br /> 
-Early screening of CIN is significant for the reducing of cervical cancer. In this study, we developed a multimodal colposcopy, which combined multispectral reflectance, auto-fluorescent, and RGB color imaging technologies together. We have established an optical model to simulate the reflectance and fluorescence characteristics of cervical tissue, and a clinical trial was conducted preliminary in Chongqing Medical University. 
-</p> 
-<p class="serif"> 
-<strong>2013.9-2014.8</strong>: Mentor: Prof. Ronald X. Xu, PMPI, USTC<br /> 
-<strong>Project: <a name="OLE_LINK2" id="OLE_LINK2">Multimodal imaging of </a><a name="OLE_LINK3" id="OLE_LINK3">cutaneous oxygenation and perfusion parameters</a></strong><br /> 
-Accurate assessment of cutaneous tissue oxygenation and blood perfusion is important in many clinical applications such as wound healing. We developed a multimodal imaging system for simultaneous oxygenation and perfusion measurement by hyperspectral and laser speckle imaging techniques. A series of<em> ex vivo</em> phantom and <em>in vivo</em> animal experiments are conducted to calibrate and evaluate the feasibility of this system in clinical application. 
-</em></p> 
-<p class ="serif"> 
-<strong>2012.1-2012.6</strong>: Mentor: <a name="OLE_LINK12" id="OLE_LINK12"></a><a name="OLE_LINK11" id="OLE_LINK11"> 
-Prof. Shiwu Zhang, PMPI, USTC<br /> 
-<strong>Project: ITK-based multimodal medical image co-registration algorithm for wounds detection  </strong> <br /> 
-Image co-registration is important for medical imaging analysis between different modalities. In this study, we developed an automatic algorithm for multimodal medical images registration based on Insight Segmentation and Registration Toolkit (ITK) in C++ environment. This algorithm is capable of automatical image co-registration and fusion. 
-</a> 
-</p> 
-<p class="serif"> 
-<strong>2011.6-2011.10</strong>:<strong> </strong>Mentor: Prof. Changan Zhu, <a name="OLE_LINK1" id="OLE_LINK1"> 
-PMPI, USTC <br /> 
-<strong>Project: Thermal error analysis of long-travel nanopositioning stage based on Ansys software </strong> <br /> 
-This is the project of my College Student Research Program, which focus on thermal error modeling and compensation of long-travel nanopositioning stage. In this study, my main work was building the structural model by Solidworks, simulating the thermal deformation by Ansys, and analyzing thermal error produced by temperature variation. 
-</a> 
-</p> 
-<p class="blue"> 
+
 <strong>Honor and Awards</strong> <br /> 
 </p> 
 <p class="serif"> 
