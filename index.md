@@ -13,13 +13,10 @@
 <strong>Personal Information</strong><br /> 
 </p> 
 <p class="serif"> 
-<strong>Data of birth:</strong> 1990.11.12 <br /> 
-<strong>Advisor:</strong> Prof. Ronald X. Xu ( <a href="http://www.mbit.ustc.edu.cn/category.php?id=105" target="_blank">徐晓嵘 教授 </a>)<br /> 
-<strong>Institute:</strong> Lab for Multimodal Biomedical Imaging and Therapy (<a href="http://www.mbit.ustc.edu.cn" target="_blank">MBIT</a>), <br /> 
 &nbsp;&nbsp;&nbsp;Department of Precision Machinery and Precision Instrumentation (<a href="http://pmpi.ustc.edu.cn" target="_blank">PMPI</a>), <br /> 
 &nbsp;&nbsp;&nbsp;University of Science and Technology of China (<a href="http://www.ustc.edu.cn" target="_blank">USTC</a>) <br /> 
 <strong>Lab Homepage:</strong> <a href="http://www.mbit.ustc.edu.cn" target="_blank">http://www.mbit.ustc.edu.cn </a> <br /> 
-<strong>E-Mail: </strong>rwq1112@mail.ustc.edu.cn <br /> 
+<strong>E-Mail: </strong>renwenqi@hikvision.com <br /> 
 <strong>Tel:</strong> +86-13721022779 
 </a> 
 </p> 
@@ -27,7 +24,7 @@
 </p> 
 </div> 
 </td> 
-<td width="100%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="384/2" height="576/2" id="tp1" /></div></td> 
+<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="384/2" height="576/2" id="tp1" /></div></td> 
 
   
 </div> 
