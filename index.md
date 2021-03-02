@@ -6,10 +6,8 @@
 </div> 
 <hr size="3" noshade=noshade color="000000" /> 
 <div id="perintro"> 
-<table cellpadding="0" cellspacing="0" border="0" width="100%"> 
-<tbody> 
-<tr height="60" valign="middle"> 
-<td width="100%" align="left"> 
+
+
 <div class="preitem"> 
 <p class="blue"> 
 <strong>Personal Information</strong><br /> 
@@ -30,9 +28,8 @@
 </div> 
 </td> 
 <td width="100%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="384" height="576" id="tp1" /></div></td> 
-</tr> 
-</tbody> 
-</table> 
+
+  
 </div> 
 <!hr> 
 <div id="perintro"> 
