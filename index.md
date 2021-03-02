@@ -16,14 +16,13 @@
 <strong>Hikvision Research Insititute, Senior Algorithm Engineer <br /> 
 <strong>E-Mail: </strong>renwenqi@hikvision.com <br /> 
 <strong>Tel:</strong> +86-13721022779 
-<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="192" height="288" id="tp1" /></div></td> 
 </a> 
 </p> 
 <p class="blue"> 
 </p> 
 </div> 
 </td> 
-
+<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="192" height="288" id="tp1" /></div></td> 
 
   
 </div> 
