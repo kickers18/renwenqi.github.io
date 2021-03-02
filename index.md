@@ -16,18 +16,7 @@
 <strong>Hikvision Research Insititute, Senior Algorithm Engineer <br /> 
 <strong>E-Mail: </strong>renwenqi@hikvision.com <br /> 
 <strong>Tel:</strong> +86-13721022779 
-</a> 
-</p> 
-<p class="blue"> 
-</p> 
-</div> 
-</td> 
 
-  
-</div> 
-<!hr> 
-<div id="perintro"> 
-<div class="blue"> 
 <strong>Education</strong> 
 </div> 
 <div class="introcotent"> 
@@ -51,7 +40,7 @@ PMPI, USTC, Hefei, China<br />
 </p></li> 
 </ul> 
 </div> 
-</p> 
+
 <p class="blue"> 
 <strong>Research Interests</strong> <br /> 
 </p> 
