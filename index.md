@@ -13,9 +13,8 @@
 <strong>Personal Information</strong><br /> 
 </p> 
 <p class="serif"> 
-&nbsp;&nbsp;&nbsp;Department of Precision Machinery and Precision Instrumentation (<a href="http://pmpi.ustc.edu.cn" target="_blank">PMPI</a>), <br /> 
-&nbsp;&nbsp;&nbsp;University of Science and Technology of China (<a href="http://www.ustc.edu.cn" target="_blank">USTC</a>) <br /> 
 <strong>Lab Homepage:</strong> <a href="http://www.mbit.ustc.edu.cn" target="_blank">http://www.mbit.ustc.edu.cn </a> <br /> 
+<strong>Hikvision Research Insititute </strong>Senior Engineer <br /> 
 <strong>E-Mail: </strong>renwenqi@hikvision.com <br /> 
 <strong>Tel:</strong> +86-13721022779 
 </a> 
