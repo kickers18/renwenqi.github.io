@@ -159,7 +159,7 @@ Photonics West BiOS 2016, San Francisco (Oral Presentation)<br />
 <div class="updatetime"> 
 <p class="serif"> 
 <span>Last modified: 2016-08-07.</span><br \="" /> 
-<span>Any comments or questions, please feel free to contact <a href="mailto:rwq1112@mail.ustc.edu.cn">Wenqi Ren</a></></span> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visitor counter:&nbsp; <img src="http://www.reliablecounter.com/count.php?page=home.ustc.edu.cn/~rwq1112/&digit=style/plain/1/&reloads=0" alt="www.reliablecounter.com" title="www.reliablecounter.com" border="0" /><br /></p> 
+<span>Any comments or questions, please feel free to contact <a href="mailto:rwq1112@mail.ustc.edu.cn">Wenqi Ren</a></></span> 
 </div> 
 </palign> 
 </p> 
