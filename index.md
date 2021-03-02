@@ -12,6 +12,7 @@
 <p class="blue"> 
 <strong>Personal Information</strong><br /> 
 </p> 
+<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="192" height="288" id="tp1" /></div></td> 
 <p class="serif">  
 <strong>Hikvision Research Insititute, Senior Algorithm Engineer <br /> 
 <strong>E-Mail: </strong>renwenqi@hikvision.com <br /> 
@@ -22,7 +23,6 @@
 </p> 
 </div> 
 </td> 
-<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="192" height="288" id="tp1" /></div></td> 
 
   
 </div> 
@@ -175,4 +175,3 @@ Photonics West BiOS 2016, San Francisco (Oral Presentation)<br />
 </div> 
 </body> 
 </body></html> 
-![Uploading image.png…]()
