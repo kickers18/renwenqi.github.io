@@ -3,8 +3,6 @@
 <div id="perbgcolor"> 
 <div id="permain"> 
 <div id="perheader"> 
-<p align="right" class="blue"><strong><font size="5">Welcome to Wenqi Ren's (任文奇) Homepage!</font></strong> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
-<align="right" class="blue"> <a href="http://home.ustc.edu.cn/~rwq1112/index-CH.html" target="_blank">中文版</a></p> 
 </div> 
 <hr size="3" noshade=noshade color="000000" /> 
 <div id="perintro"> 
