@@ -2,16 +2,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Frame Setting</title>
+<title>Wenqi Ren's Home Page</title>
 </head>
-<frameset rows="10%,90%" frameborder="no" scrolling="no">
-     <frame src="Top.html" frameborder = "no" scrolling="no" noresize/>
-     <frameset cols="325px,*" >
-         <frame src="Bottom_Left.html" frameborder = "no" scrolling="no" noresize/>
-         <frame src="Bottom_Right.html" frameborder = "no"scrolling="no"  noresize/>
-</frameset>
-</frameset><noframes></noframes>
+<body style="margin: 0px; height:850px; width:auto">
+<iframe src="FrameSetting.html" style="height:100%;width:100%;border-width:0px;">
+</iframe>
 
-<body>
 </body>
 </html>
