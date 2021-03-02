@@ -24,7 +24,7 @@
 </p> 
 </div> 
 </td> 
-<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="384/2" height="576/2" id="tp1" /></div></td> 
+<td width="50%"><div align="center"><img src="任文奇-形象照 - small.JPG" alt="photo" align="right" name="tp1" width="192" height="288" id="tp1" /></div></td> 
 
   
 </div> 
@@ -37,7 +37,7 @@
 <ul> 
 <li> 
 <p class="serif"> 
-<strong>2016.5-2017.6 (Expected), PhD candidate supervised by Prof. Ronald X. Xu</strong> <br /> 
+<strong>2016.5-2017.6, PhD candidate supervised by Prof. Ronald X. Xu</strong> <br /> 
 PMPI, USTC, Hefei, China<br /> 
 </p></li> 
 <li><p class="serif"> 
