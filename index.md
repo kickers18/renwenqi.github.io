@@ -1,27 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
-<html xmlns="http://www.w3.org/1999/xhtml"> 
-<head> 
-<meta http-equiv="Content-Type" content="text/html; charset=GBK"> 
-<meta http-equiv="Content-Language" content="zh-cn"> 
-<!-- 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />--> 
-<link href="./files/index.css" type="text/css" rel="stylesheet"> 
-<!--<link rel="shortcut icon" href="http://www.ustc.edu.cn/ustc.ico" />--> 
-<title>Wenqi's Homepage</title> 
-<style type="text/css"> 
-.serif { 
-font-family: "Times New Roman",Georgia,Serif; 
-} 
-.blue { 
-font-family: "Times New Roman",Georgia,Serif; 
-color: #0000A0; 
-} 
-body { 
-margin: 0 auto; 
-width: 782px; 
-} 
-</style> 
-</head> 
 <body bgcolor=#F5F5F5> 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="HolmesIcon1470473453" width="20" height="20" style="display: none !important;"><param name="movie" value="http://eiv.baidu.com/hmt/icon/11.swf" /><param name="flashvars" value="s=http://tongji.baidu.com/hm-web/welcome/ico?s=cda32e0ee77ec161ec71bde6e593b350" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" name="HolmesIcon1470473453" width="20" height="20" src="http://eiv.baidu.com/hmt/icon/11.swf" flashvars="s=http://tongji.baidu.com/hm-web/welcome/ico?s=cda32e0ee77ec161ec71bde6e593b350" allowscriptaccess="always" /></object> 
 <div id="perbgcolor"> 
