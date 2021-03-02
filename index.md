@@ -16,11 +16,11 @@
 
 ### Publications
 ## Journal paper
-# 1. Ren W, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015, 20(12): 121307-121307.Link
-# 2. Ren W, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016
-# 3 Wu Q, Ren W, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015, 20(12): 121308-121308.Link
-4. Zhang, S., Gnyawali, S., Huang, J., Ren, W., Gordillo, G., Sen, C. K., & Xu, R. (2015). Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 20(1), 016016-016016.Link
-5. Wang, J., Zhu, C., Feng, M., & Ren W. (2013). Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 65(1-4), 443-450.Link
+1. Ren W, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015, 20(12): 121307-121307.Link
+3. Ren W, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016
+4. Wu Q, Ren W, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015, 20(12): 121308-121308.Link
+5. Zhang, S., Gnyawali, S., Huang, J., Ren, W., Gordillo, G., Sen, C. K., & Xu, R. (2015). Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 20(1), 016016-016016.Link
+6. Wang, J., Zhu, C., Feng, M., & Ren W. (2013). Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 65(1-4), 443-450.Link
 ## Conference paper
 1. Ren W, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 97010E-97010E-16.Link
 2. Ren W, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014: 893706-893706-12.Link
