@@ -39,7 +39,7 @@
 4、《信息技术 计算机视觉 术语》   
 
 ### **Publications**  
-#### &emsp;&emsp;&emsp;*Journal paper*  
+#### *Journal paper*  
 1. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015  
 2. **Ren W**, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016  
 3. Wu Q, **Ren W**, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015  
