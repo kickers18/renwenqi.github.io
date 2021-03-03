@@ -20,17 +20,17 @@
 
 ### **Publications**  
 #### *Journal paper*  
-1. Ren W, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015, 20(12): 121307-121307.    
-2. Ren W, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016  
-3. Wu Q, Ren W, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015, 20(12): 121308-121308.  
-4. Zhang, S., Gnyawali, S., Huang, J., Ren, W., Gordillo, G., Sen, C. K., & Xu, R. (2015). Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 20(1), 016016-016016.  
-5. Wang, J., Zhu, C., Feng, M., & Ren W. (2013). Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 65(1-4), 443-450.  
+1. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015, 20(12): 121307-121307.    
+2. **Ren W**, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016  
+3. Wu Q, **Ren W**, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015, 20(12): 121308-121308.  
+4. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. (2015). Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 20(1), 016016-016016.  
+5. Wang, J., Zhu, C., Feng, M., & **Ren W.** (2013). Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 65(1-4), 443-450.  
 #### *Conference paper*    
-1. Ren W, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 97010E-97010E-16.  
-2. Ren W, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014: 893706-893706-12.  
-3. Yu Z, Ren W, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 96980K-96980K-13.   
-4. Qu Y, Ren W, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 97150Q-97150Q-8.  
-5. Zhang Z, Ren W, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014: 89350I-89350I-7.   
+1. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 97010E-97010E-16.  
+2. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014: 893706-893706-12.  
+3. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 96980K-96980K-13.   
+4. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 97150Q-97150Q-8.  
+5. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014: 89350I-89350I-7.   
 
 ### **Projects**  
 1、承担课题：浙江省重点研发计划——智能安防典型场景解决方案研究及应用示范——基于人工智能技术的安防研究及应用（2019C01007）；课题骨干（排名第3）,2018.7-2021.3  
@@ -63,6 +63,6 @@
 2017：滨企：金球+金靴（并列）  
 2018：海康联赛：金靴  
 2019：纵贯贺岁杯：金靴   
-&emsp;&emsp;G6联赛：金靴   
-&emsp;&emsp;G10夏季联赛：金靴    
+&emsp;&emsp;&emsp;G6联赛：金靴   
+&emsp;&emsp;&emsp;G10夏季联赛：金靴    
 2020：G6联赛：金球+金靴（并列）     
