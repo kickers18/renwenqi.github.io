@@ -15,7 +15,7 @@
 
 ### **Education**    
   2012-2017, 博士，仪器科学与技术，中国科学技术大学  
-  2015-2016，访问学生，生物医学工程，美国俄亥俄州立大学  
+  2015-2016, 访问学生，生物医学工程，美国俄亥俄州立大学  
   2008-2012, 学士，仪器科学与技术，中国科学技术大学   
 
 ### **Publications**  
@@ -25,7 +25,7 @@
 3. Wu Q, **Ren W**, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015, 20(12): 121308-121308.  
 4. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. (2015). Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 20(1), 016016-016016.  
 5. Wang, J., Zhu, C., Feng, M., & **Ren W.** (2013). Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 65(1-4), 443-450.  
-#### *Conference paper*    
+#### *Conference paper*  
 1. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 97010E-97010E-16.  
 2. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014: 893706-893706-12.  
 3. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016: 96980K-96980K-13.   
