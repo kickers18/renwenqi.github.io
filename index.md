@@ -3,6 +3,7 @@
     <td width="75%">
       <h1>任文奇</h1>
       <p><b>中国科学技术大学，博士</b></p>
+      <p><b>海康威视-浙江大学联合培养博士后（导师：庄越挺）
       <p><b>海康威视研究院，高级算法工程师&战略合作经理</b></p>
       <p><b>邮箱：renwenqi@hikvision.com</b></p>
       <p><b>地址：杭州市滨江区阡陌路555号</b></p>
@@ -27,6 +28,10 @@
 1、海康威视先进科技工作者（2018，2019，2020）  
 2、光华奖学金（2015）  
 
+### **Academic Service**
+1、浙江大学光华法学院实务导师，2021.9-2024.9
+2、中国人工智能学会-吴文俊人工智能科学技术奖，评审专家
+
 ### **Patants**
 1、【发明授权】一种基于主题适应与原型编码的少样本视觉故事叙述方法，公开号111708904A，第九  
 2、【发明授权】基于共识图表征推理的定位自然图像字幕生成方法和装置，授权公告号CN111741236B，专利号ZL202010857184.9，第八  
@@ -46,11 +51,13 @@
 4. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
 5. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
 #### *Conference paper*  
-1. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-2. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
-3. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-4. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-5. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021
+2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation
+3. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+4. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+5. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+6. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+7. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
 
 ### **Soccer Career**
 #### *Championships*
@@ -60,13 +67,15 @@
 2017：杭州市滨江区企业联赛      
 2018：安徽高校联赛    
 2019：G10夏季联赛，G10贺岁杯，海康集团联赛   
-2020：G6联赛，安徽高校联赛   
+2020：G6联赛，安徽高校联赛
+2021：海康集团联赛
 #### *Personal Awards*   
 2014：中国科大-首研杯：金靴  
 2017：中国科大-冠军杯：金靴   
 2017：滨企：金球+金靴（并列）  
-2018：海康联赛：金靴  
+2018：海康威视联赛：金靴  
 2019：纵贯贺岁杯：金靴   
 &emsp;&emsp;&emsp;G6联赛：金靴   
 &emsp;&emsp;&emsp;G10夏季联赛：金靴    
-2020：G6联赛：金球+金靴（并列）     
+2020：G6联赛：金球+金靴（并列）
+2021：G6联赛：金靴
