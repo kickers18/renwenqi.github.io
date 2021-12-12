@@ -33,12 +33,18 @@
 
 ### **Academic Service**
 1、浙江大学光华法学院，实务导师，2021.9-2024.9   
-2、中国人工智能学会-吴文俊人工智能科学技术奖，评审专家
-3、信标委人工智能分委会，单位委员代表
+2、中国人工智能学会-吴文俊人工智能科学技术奖，评审专家   
+3、信标委人工智能分委会，单位委员代表  
+
+### **Public Talks**
+1、中国人工智能计算大会，2019.8，北京   
+2、中国人工开发者大会，2019.11，杭州   
+3、中国计算机视觉和模式识别大会，企业宣讲，2019.12，西安   
+4、视觉与学习青年学者研讨会（VALSE），企业宣讲，2021.10，杭州   
 
 ### **Patants**
 1、【发明授权】基于共识图表征推理的定位自然图像字幕生成方法和装置，授权公告号CN111741236B，专利号ZL202010857184.9，第八  
-2、【发明公开】一种基于主题适应与原型编码的少样本视觉故事叙述方法，公开号111708904A，第九  
+2、【发明公开】一种基于主题适应与原型编码的少样本视觉故事叙述方法，公开号CN111708904A，第九  
 3、【发明公开】一种基于查询的自底向上视频定位方法和系统，公开号CN112348102A，第七  
 5、【实用新型授权】一种多模态阴道镜系统，授权公告号204410775U，第一  
 
@@ -56,8 +62,8 @@
 4. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
 5. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
 #### *Conference paper*  
-1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021
-2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation
+1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021   
+2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation   
 3. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
 4. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
 5. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
