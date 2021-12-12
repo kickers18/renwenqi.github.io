@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>任文奇</h1>
       <p><b>中国科学技术大学，博士</b></p>
-      <p><b>海康威视-浙江大学联合培养博士后（导师：庄越挺）</b></p>
+      <p><b>海康威视-浙江大学联合培养博士后（导师：庄越挺教授）</b></p>
       <p><b>海康威视研究院，高级算法工程师&战略合作经理</b></p>
       <p><b>邮箱：renwenqi@hikvision.com</b></p>
       <p><b>地址：杭州市滨江区阡陌路555号</b></p>
@@ -63,7 +63,7 @@
 5. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
 #### *Conference paper*  
 1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021   
-2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation   
+2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，2021   
 3. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
 4. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
 5. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
