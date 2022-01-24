@@ -52,7 +52,9 @@
 1、国标《信息技术 移动设备生物特征识别 第3部分:人脸》   
 2、团标《信息技术 人工智能 面向机器学习的数据标注规程》   
 3、国标《信息技术 人工智能 术语》   
-4、国标《信息技术 计算机视觉 术语》   
+4、国标《信息技术 计算机视觉 术语》
+5、团标《信息技术应用创新 视频解析机技术规范》
+6、团标《信息技术 数字视网膜系统  第1部分：系统结构和通信协议》
 
 ### **Publications**  
 #### *Journal paper*  
@@ -64,11 +66,12 @@
 #### *Conference paper*  
 1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021   
 2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，2021   
-3. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-4. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
-5. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-6. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-7. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+3.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, 2021
+4. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+5. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+6. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+7. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+8. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
 
 ### **Soccer Career**
 #### *Team Honors*
@@ -77,7 +80,7 @@
 2012：中国科大冠军杯-季军    
 2013：    
 2014：中国科大首研杯-冠军，八人制-亚军，安徽省十三运足球项目-季军   
-2015：中国科大八人制-亚军，谁是球王五人制-安徽赛区-冠军，华东赛区-亚军，恒大冰泉五人制-华东赛区-亚军       
+2015：中国科大八人制-亚军，谁是球王五人制-安徽赛区-冠军、华东赛区-亚军，恒大冰泉五人制-华东赛区-亚军       
 2016：北美华人八校赛-冠军，中国科大八人制-冠军，安徽省大学生联赛-冠军   
 2017：杭州市滨江区企业联赛-冠军          
 2018：安徽高校浙江校友联赛-冠军    
@@ -90,8 +93,6 @@
 2017：中国科大-冠军杯-金靴     
 2017：滨企联赛-金球+金靴    
 2018：海康威视联赛-金靴  
-2019：纵贯贺岁杯-金靴   
-&emsp;&emsp;&emsp;G6校友联赛-金靴   
-&emsp;&emsp;&emsp;G10校友夏季联赛-金靴    
+2019：纵贯贺岁杯-金靴，G6校友联赛-金靴，G10校友夏季联赛-金靴    
 2020：G6校友联赛-金球+金靴    
 2021：G6校友联赛-金靴    
