@@ -28,11 +28,13 @@
 3、参与课题：科技部-科技创新2030-新一代人工智能重大专项：视频感知人工智能开放创新平台建设及应用推广（2020AAA0104004）；课题骨干（排名14）,2020.7-2023.6，1272万（支持272万）     
 4、参与课题：浙江省重点研发计划——基于“智能亚运” 等重大活动公共安全需求的关键技术、装备研发及应用示范-亚运智能安保风险监测预警关键技术、装备研发及应用示范（2021C03155），课题骨干（排名12）,2021.1-2023.6，650万（支持250万）    
 5、参与课题：工信部-2019年制造业高质量发展专项-工业互联网企业内5G网络化改造及推广服务平台（TC190A3X9-1）；课题骨干（排名第10），2019.03-2021.12，684万    
+6、参与课题：浙江省科技厅-2020年中央引导地方科技发展专项项目-视频感知国家新一代人工智能开放创新平台建设（2020ZY1009）；课题骨干（排名15），2020.1-2020.12，1650万元（支持650万元）     
 
 ### **Awards**
-1、中国电子学会-科技进步一等奖-特征流与模型流协同的大规模视频智能处理技术及在城市交通中的应用（2022）    
-2、海康威视先进科技工作者（2018，2019，2020，2022）  
-3、光华奖学金（2015）  
+1、全国信标委人工智能分委会2023年度优秀个人     
+2、中国电子学会-科技进步一等奖-特征流与模型流协同的大规模视频智能处理技术及在城市交通中的应用（2022）    
+3、海康威视先进科技工作者（2018，2019，2020，2022）  
+4、光华奖学金（2015）  
 
 ### **Academic Service**
 1、浙江大学光华法学院，实务导师，2021.9-2024.9   
@@ -82,12 +84,13 @@
 #### *Conference paper*  
 1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021   
 2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，2021   
-3.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, 2021
-4. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-5. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
-6. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-7. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-8. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+3.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, 2021    
+4.  Shuhui Wu, Yongliang Shen, Zeqi Tan, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition， EMNLP 2023    
+5. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+6. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+7. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+8. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+9. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
 
 ### **Soccer Career**
 #### *Team Honors*
