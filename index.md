@@ -62,7 +62,7 @@
 
 ### **Standards**
 1、GB/T 37036.3-2019 国标《信息技术 移动设备生物特征识别 第3部分:人脸》   
-2、GB/T 41815.2-2022 国标《信息技术 生物特征识别呈现攻击检测 第2部分：数据格式》 
+2、GB/T 41815.2-2022 国标《信息技术 生物特征识别呈现攻击检测 第2部分：数据格式》     
 3、GB/T 41815.3-2023 国标《信息技术 生物特征识别呈现攻击检测 第3部分：测试与报告》    
 4、T/CESA 1040-2019 团标《信息技术 人工智能 面向机器学习的数据标注规程》   
 5、GB/T 41867-2022 国标《信息技术 人工智能 术语》   
@@ -83,8 +83,8 @@
 4. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
 5. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
 #### *Conference paper*  
-1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021   
-2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，2021   
+1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021（Best Industrial Paper Award）   
+2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，2022   
 3.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, 2021    
 4.  Shuhui Wu, Yongliang Shen, Zeqi Tan, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition， EMNLP 2023    
 5. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
