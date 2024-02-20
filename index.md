@@ -77,9 +77,10 @@
 9、AIIA_PG 0071-2022 团标《大规模预训练模型技术和应用评估方法 第1部分：模型开发》    
 10、AIIA_PG 0072-2022 团标《大规模预训练模型技术和应用评估方法 第2部分：模型能力》   
 11、AIIA_PG 2023 团标《大规模预训练模型技术和应用评估方法 第4部分：模型应用》   
-12、IEEE3161-2022 国际标准 DIGITAL RETINA SYSTEMS    
-13、白皮书：信标委《人工智能标准化白皮书（2021版）》     
-14、白皮书：信标委《2020年行为识别行业研究报告》    
+12、IEEE3161-2022 国际标准 IEEE Standard for Digital Retina Systems       
+13、IEEE3161.9-2023 国际标准 IEEE Standard for Protocols and Interfaces of Digital Retina Systems    
+14、白皮书：信标委《人工智能标准化白皮书（2021版）》     
+15、白皮书：信标委《2020年行为识别行业研究报告》    
 ### **Publications**  
 #### *Journal paper*  
 1. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015  
