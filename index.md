@@ -55,7 +55,7 @@
 5、视觉与学习青年学者研讨会（VALSE），企业宣讲，2021.10，杭州   
 
 ### **Patants**
-1、【发明授权】基于共识图表征推理的定位自然图像字幕生成方法和装置，专利号ZL202010857184.9，第八
+1、【发明授权】基于共识图表征推理的定位自然图像字幕生成方法和装置，专利号ZL202010857184.9，第八    
 2、【发明授权】一种基于查询的自底向上视频定位方法和系统，专利号ZL202011278817.7，第七
 2、【发明公开】一种网络模型的训练方法、装置及设备，CN115062792A，第二    
 3、【发明公开】一种网络模型的训练方法、装置及设备，CN115062793A，第二    
@@ -91,15 +91,16 @@
 4. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
 5. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
 #### *Conference paper*  
-1.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, 2021（Best Industrial Paper Award）   
-2.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，2022   
-3.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, 2021    
-4.  Shuhui Wu, Yongliang Shen, Zeqi Tan, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition， EMNLP 2023    
-5. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-6. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
-7. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-8. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-9. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+1.  Insert or Attach: Taxonomy Completion via Box Embedding, Wei Xue, Yongliang Shen, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, ACL 2024    
+2.  Shuhui Wu, Yongliang Shen, Zeqi Tan, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition， EMNLP 2023     
+3.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, ICDAR 2021（**Best Industrial Paper Award**）   
+4.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，IROS 2022   
+5.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, ICDAR 2021    
+7. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+8. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+9. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+10. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+11. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
 
 ### **Soccer Career**
 #### *Team Honors*
