@@ -91,11 +91,12 @@
 4. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
 5. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
 #### *Conference paper*  
-1.  Insert or Attach: Taxonomy Completion via Box Embedding, Wei Xue, Yongliang Shen, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, ACL 2024    
-2.  Shuhui Wu, Yongliang Shen, Zeqi Tan, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition， EMNLP 2023     
-3.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, ICDAR 2021（**Best Industrial Paper Award**）   
-4.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，IROS 2022   
-5.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, ICDAR 2021    
+1.  Wei Xue, Yongliang Shen, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, Insert or Attach: Taxonomy Completion via Box Embedding, ACL 2024    
+2.  Yuye Feng, Wei Zhang, Yao Fu, Weihao Jiang, Zhu Jiang, **Wenqi Ren**, SensitiveHUE: Multivariate Time Series Anomaly Dection by Enhancing the Sensitivity to Normal Patterns, KDD 2024    
+3.  Shuhui Wu, Yongliang Shen, Zeqi Tan, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition， EMNLP 2023     
+4.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, ICDAR 2021（**Best Industrial Paper Award**）   
+5.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，IROS 2022   
+6.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, ICDAR 2021    
 7. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
 8. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
 9. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
