@@ -82,10 +82,10 @@
 7、GB/T 41864-2022 国标《信息技术 计算机视觉 术语》   
 8、T/CESA 9173—2021 团标《信息技术应用创新 视频解析机技术规范》   
 9、T/CESA 1040-2019 团标《信息技术 人工智能 面向机器学习的数据标注规程》   
-8、T/AI 116.1—2021 团标《信息技术 数字视网膜系统  第1部分：系统结构和通信协议》   
-9、AIIA_PG 0071-2022 团标《大规模预训练模型技术和应用评估方法 第1部分：模型开发》    
-10、AIIA_PG 0072-2022 团标《大规模预训练模型技术和应用评估方法 第2部分：模型能力》   
-11、AIIA_PG 0101-2023 团标《大规模预训练模型技术和应用评估方法 第4部分：模型应用》   
+10、T/AI 116.1—2021 团标《信息技术 数字视网膜系统  第1部分：系统结构和通信协议》   
+11、AIIA_PG 0071-2022 团标《大规模预训练模型技术和应用评估方法 第1部分：模型开发》    
+12、AIIA_PG 0072-2022 团标《大规模预训练模型技术和应用评估方法 第2部分：模型能力》   
+13、AIIA_PG 0101-2023 团标《大规模预训练模型技术和应用评估方法 第4部分：模型应用》   
 14、白皮书：信标委《人工智能标准化白皮书（2021版）》     
 15、白皮书：信标委《2020年行为识别行业研究报告》    
 ### **Publications**  
@@ -104,9 +104,9 @@
 6.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, ICDAR 2021    
 7. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
 8. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
-9. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-10. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-11. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+9. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016   
+10. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016   
+11. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014   
 
 ### **Soccer Career**
 #### *Team Honors*
