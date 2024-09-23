@@ -94,8 +94,8 @@
 15、白皮书：信标委《2020年行为识别行业研究报告》    
 ### **Publications**  
 #### *Journal paper*  
-1.Zhenjie Yu, Moxin Li, Zhenyu Xing, Hao Gao, Zeyang Liu, Shiliang Pu, Hui Mao, Hong Cai, Qiang Ma, **Wenqi Ren**, Jiang Zhu, Cheng Zhang. Genetic algorithm assisted meta-atom design for high-performance metasurface optics. Opto-Electron Sci 3, 240016 (2024). doi: 10.29026/oes.2024.240016    
-2. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015  
+1. Zhenjie Yu, Moxin Li, Zhenyu Xing, Hao Gao, Zeyang Liu, Shiliang Pu, Hui Mao, Hong Cai, Qiang Ma, **Wenqi Ren**, Jiang Zhu, Cheng Zhang. Genetic algorithm assisted meta-atom design for high-performance metasurface optics. Opto-Electron Sci 3, 240016 (2024)    
+2. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015     
 3. **Ren W**, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016  
 4. Wu Q, **Ren W**, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015  
 5. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
