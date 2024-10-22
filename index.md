@@ -16,7 +16,7 @@
 </table>
 
 ### **Profile**    
-中国计算机学会高级会员，浙江省科技专家库专家成员，中国科协“科技智库青年人才计划”入选者（2024），主要从事计算机视觉、深度学习算法的研究和智能原型系统的开发，负责相关产品的标准化和生态合作工作，曾在国际权威期刊和学术会议上发表论文十余篇，参与国际标准、国家标准或行业、团体标准13项（已发布），作为核心成员参与科技部新一代人工智能重大专项、浙江省重点研发计划（2018-2020）等多个重大科技项目，曾获中国电子学会科技进步一等奖（2022，11/15），多次获评海康威视先进科技工作者（2018，2019，2020，2022）。本人参与研发的目标检测、行为分析、视频结构化等诸多智能技术，已大量应用于海康威视的前后端音视频产品，很好地实现了以核心技术优势持续带动公司产品竞争力提升。     
+中国计算机学会高级会员，浙江省科技专家库专家成员，中国科协“科技智库青年人才计划”入选者（2024），主要从事计算机视觉、深度学习算法的研究和智能原型系统的开发，负责相关产品的标准化和生态合作工作，曾在国际权威期刊和学术会议上发表论文十余篇，参与国际标准、国家标准或行业、团体标准15项（已发布），作为核心成员参与科技部新一代人工智能重大专项、浙江省重点研发计划（2018-2020）等多个重大科技项目，曾获中国电子学会科技进步一等奖（2022，11/15），多次获评海康威视先进科技工作者（2018，2019，2020，2022）。本人参与研发的目标检测、行为分析、视频结构化等诸多智能技术，已大量应用于海康威视的前后端音视频产品，实现了以核心技术优势持续带动公司产品竞争力提升。     
   
 ### **Education**    
   + 2012-2017, 博士，仪器科学与技术，中国科学技术大学  
@@ -53,28 +53,30 @@
 7、中国人工智能产业发展联盟（AIIA）基础平台工作组，专家    
 
 ### **Public Talks**
-1、人工智能课程国家级虚拟教研室教学研究论坛，邀请报告，2022.10，杭州    
-2、中国人工智能计算大会（AICC），分论坛演讲，2019.8，北京   
-3、中国人工智能产业联盟开发者大会，分论坛演讲，2019.11，杭州   
-4、中国计算机视觉和模式识别大会，企业演讲，2019.12，西安   
-5、视觉与学习青年学者研讨会（VALSE），企业演讲，2021.10，杭州   
+1、智能视觉产业发展大会，邀请报告，2024.10，诸暨     
+2、人工智能课程国家级虚拟教研室教学研究论坛，邀请报告，2022.10，杭州    
+3、视觉与学习青年学者研讨会（VALSE），企业演讲，2021.10，杭州    
+4、中国人工智能产业联盟开发者大会，分论坛演讲，2019.11，杭州    
+5、中国计算机视觉和模式识别大会，企业演讲，2019.12，西安    
+6、中国人工智能计算大会（AICC），分论坛演讲，2019.8，北京   
 
 ### **Patants**
-1、【发明授权】车载相机标定方法、装置、电子设备及机器可读存储介质，专利号ZL202410853898.0，第二     
-2、【发明授权】一种智能巡店方法、装置、存储介质和电子设备，专利号ZL202410848459.0，第三  
-3、【发明授权】基于共识图表征推理的定位自然图像字幕生成方法和装置，专利号ZL202010857184.9，第八    
-4、【发明授权】一种基于查询的自底向上视频定位方法和系统，专利号ZL202011278817.7，第七    
-5、【发明公开】车载相机标定方法、装置、电子设备及机器可读存储介质，CN202410853898.0，第二    
-6、【发明公开】一种智能巡店方法、装置、存储介质和电子设备，CN118396125A，第三    
-7、【发明公开】一种网络模型的训练方法、装置及设备，CN115062792A，第二    
-8、【发明公开】一种网络模型的训练方法、装置及设备，CN115062793A，第二    
-9、【发明公开】神经网络模型裁剪方法、装置、电子设备及存储介质，CN114897164A，第三    
-10、【发明公开】任务处理方法、装置、电子设备及存储介质，CN115062765A，第三    
-11、【发明公开】一种图像处理方法、装置及设备，CN115187845A，第二    
-12、【发明公开】一种基于主题适应与原型编码的少样本视觉故事叙述方法，公开号CN111708904A，第九   
-13、【发明公开】一种基于查询的自底向上视频定位方法和系统，公开号CN112348102A，第七   
-14、【发明公开】一种适用于复杂监控场景的行人属性识别方法，公开号CN117115851A，第六    
-15、【实用新型授权】一种多模态阴道镜系统，授权公告号204410775U，第一   
+1、【**发明授权**】车载相机标定方法、装置、电子设备及机器可读存储介质，专利号ZL202410853898.0，第二     
+2、【**发明授权**】一种智能巡店方法、装置、存储介质和电子设备，专利号ZL202410848459.0，第三     
+3、【**发明授权**】基于共识图表征推理的定位自然图像字幕生成方法和装置，专利号ZL202010857184.9，第八     
+4、【**发明授权**】一种基于查询的自底向上视频定位方法和系统，专利号ZL202011278817.7，第七     
+5、【发明公开】一种夜间可见光与热红外图像融合方法，CN118799204A，第三     
+6、【发明公开】一种模型训练方法、对象识别方法、装置及电子设备，CN118781471A，第二     
+7、【发明公开】适应于复杂视角和行人状态的行人属性识别方法，CN118747905A，第四         
+8、【发明公开】一种数据增强模型的训练方法、数据增强方法、及装置，CN118710889A，第二     
+9、【发明公开】一种网络模型的训练方法、装置及设备，CN115062792A，第二     
+10、【发明公开】一种网络模型的训练方法、装置及设备，CN115062793A，第二     
+11、【发明公开】神经网络模型裁剪方法、装置、电子设备及存储介质，CN114897164A，第三     
+12、【发明公开】任务处理方法、装置、电子设备及存储介质，CN115062765A，第三     
+13、【发明公开】一种图像处理方法、装置及设备，CN115187845A，第二     
+14、【发明公开】一种基于主题适应与原型编码的少样本视觉故事叙述方法，公开号CN111708904A，第九    
+15、【发明公开】一种适用于复杂监控场景的行人属性识别方法，公开号CN117115851A，第六     
+16、【实用新型授权】一种多模态阴道镜系统，授权公告号204410775U，第一    
 
 ### **Standards**
 1、IEEE3161-2022 国际标准 IEEE Standard for Digital Retina Systems       
@@ -96,12 +98,13 @@
 17、白皮书：信标委《2020年行为识别行业研究报告》    
 ### **Publications**  
 #### *Journal paper*  
-1. Zhenjie Yu, Moxin Li, Zhenyu Xing, Hao Gao, Zeyang Liu, Shiliang Pu, Hui Mao, Hong Cai, Qiang Ma, **Wenqi Ren**, Jiang Zhu, Cheng Zhang. Genetic algorithm assisted meta-atom design for high-performance metasurface optics. Opto-Electron Sci 3, 240016 (2024)    
-2. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015     
-3. **Ren W**, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016  
-4. Wu Q, **Ren W**, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015  
-5. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
-6. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
+1.浦世亮，**任文奇（通信作者）**，朱江，陈方栋，钟凯伦，智能物联感知关键技术及应用，智能感知工程，第一期（创刊号邀稿），2024    
+2. Zhenjie Yu, Moxin Li, Zhenyu Xing, Hao Gao, Zeyang Liu, Shiliang Pu, Hui Mao, Hong Cai, Qiang Ma, **Wenqi Ren**, Jiang Zhu, Cheng Zhang. Genetic algorithm assisted meta-atom design for high-performance metasurface optics. Opto-Electron Sci 3, 240016 (2024)    
+3. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015     
+4. **Ren W**, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016  
+5. Wu Q, **Ren W**, Yu Z, et al. Microfabrication of polydimethylsiloxane phantoms to simulate tumor hypoxia and vascular anomaly[J]. Journal of biomedical optics, 2015  
+6. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
+7. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
 #### *Conference paper*  
 1.  Wei Xue, Yongliang Shen, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, Insert or Attach: Taxonomy Completion via Box Embedding, ACL 2024    
 2.  Yuye Feng, Wei Zhang, Yao Fu, Weihao Jiang, Zhu Jiang, **Wenqi Ren**, SensitiveHUE: Multivariate Time Series Anomaly Dection by Enhancing the Sensitivity to Normal Patterns, KDD 2024    
