@@ -98,7 +98,7 @@
 17、白皮书：信标委《2020年行为识别行业研究报告》    
 ### **Publications**  
 #### *Journal paper*  
-1.浦世亮，**任文奇（通信作者）**，朱江，陈方栋，钟凯伦，智能物联感知关键技术及应用，智能感知工程，第一期（创刊号邀稿），2024    
+1. 浦世亮，**任文奇（通信作者）**，朱江，陈方栋，钟凯伦，智能物联感知关键技术及应用，智能感知工程，第一期（创刊号邀稿），2024
 2. Zhenjie Yu, Moxin Li, Zhenyu Xing, Hao Gao, Zeyang Liu, Shiliang Pu, Hui Mao, Hong Cai, Qiang Ma, **Wenqi Ren**, Jiang Zhu, Cheng Zhang. Genetic algorithm assisted meta-atom design for high-performance metasurface optics. Opto-Electron Sci 3, 240016 (2024)    
 3. **Ren W**, Gan Q, Wu Q, et al. Quasi-simultaneous multimodal imaging of cutaneous tissue oxygenation and perfusion[J]. Journal of Biomedical Optics, 2015     
 4. **Ren W**, Development of a multimodal colposcopy for early screening of cervical intraepithelial neoplasia, Journal of Medical Devices，2016  
