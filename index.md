@@ -65,10 +65,10 @@
 2、【**发明授权**】一种智能巡店方法、装置、存储介质和电子设备，专利号ZL202410848459.0，第三     
 3、【**发明授权**】基于共识图表征推理的定位自然图像字幕生成方法和装置，专利号ZL202010857184.9，第八     
 4、【**发明授权**】一种基于查询的自底向上视频定位方法和系统，专利号ZL202011278817.7，第七     
-5、【发明公开】一种夜间可见光与热红外图像融合方法，CN118799204A，第三     
-6、【**发明授权**】一种模型训练方法、对象识别方法、装置及电子设备，ZL202411277658.7，第二     
+5、【**发明授权**】一种模型训练方法、对象识别方法、装置及电子设备，ZL202411277658.7，第二     
+6、【**发明授权**】一种数据增强模型的训练方法、数据增强方法、及装置，ZL202411184316.0，第二     
 7、【发明公开】适应于复杂视角和行人状态的行人属性识别方法，CN118747905A，第四         
-8、【**发明授权**】一种数据增强模型的训练方法、数据增强方法、及装置，ZL202411184316.0，第二     
+8、【发明公开】一种夜间可见光与热红外图像融合方法，CN118799204A，第三     
 9、【发明公开】一种网络模型的训练方法、装置及设备，CN115062792A，第二     
 10、【发明公开】一种网络模型的训练方法、装置及设备，CN115062793A，第二     
 11、【发明公开】神经网络模型裁剪方法、装置、电子设备及存储介质，CN114897164A，第三     
@@ -76,7 +76,8 @@
 13、【发明公开】一种图像处理方法、装置及设备，CN115187845A，第二     
 14、【发明公开】一种基于主题适应与原型编码的少样本视觉故事叙述方法，公开号CN111708904A，第九    
 15、【发明公开】一种适用于复杂监控场景的行人属性识别方法，公开号CN117115851A，第六     
-16、【实用新型授权】一种多模态阴道镜系统，授权公告号204410775U，第一    
+16、【发明公开】一种基于主体目标判别的遮挡行人再识别方法，公开号CN202411275283.0，第三      
+17、【实用新型授权】一种多模态阴道镜系统，授权公告号204410775U，第一    
 
 ### **Standards**
 1、IEEE3161-2022 国际标准 IEEE Standard for Digital Retina Systems       
@@ -108,17 +109,18 @@
 6. Zhang, S., Gnyawali, S., Huang, J., **Ren, W.**, Gordillo, G., Sen, C. K., & Xu, R. Multimodal imaging of cutaneous wound tissue. Journal of biomedical optics, 2015  
 7. Wang, J., Zhu, C., Feng, M., & **Ren W.**. Thermal error modeling and compensation of long-travel nanopositioning stage. The International Journal of Advanced Manufacturing Technology, 2013  
 #### *Conference paper*  
-1.  Wei Xue, Yongliang Shen, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, Insert or Attach: Taxonomy Completion via Box Embedding, ACL 2024    
-2.  Yuye Feng, Wei Zhang, Yao Fu, Weihao Jiang, Zhu Jiang, **Wenqi Ren**, SensitiveHUE: Multivariate Time Series Anomaly Dection by Enhancing the Sensitivity to Normal Patterns, KDD 2024    
-3.  Shuhui Wu, Yongliang Shen, Zeqi Tan, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition， EMNLP 2023     
-4.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, ICDAR 2021（**Best Industrial Paper Award**）   
-5.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，IROS 2022   
-6.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, ICDAR 2021    
-7. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
-8. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
-9. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016   
-10. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016   
-11. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014   
+1.  Guanzhong Zeng, Jingjing Wang, Zefu Xu, Pengwei Yin, **Wenqi Ren（通信作者）**, Di Xie, Jiang Zhu, Gaze Label Alignment: Alleviating Domain Shift for Gaze Estimation, AAAI 2025    
+2.  Wei Xue, Yongliang Shen, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, Insert or Attach: Taxonomy Completion via Box Embedding, ACL 2024    
+3.  Yuye Feng, Wei Zhang, Yao Fu, Weihao Jiang, Zhu Jiang, **Wenqi Ren**, SensitiveHUE: Multivariate Time Series Anomaly Dection by Enhancing the Sensitivity to Normal Patterns, KDD 2024    
+4.  Shuhui Wu, Yongliang Shen, Zeqi Tan, **Wenqi Ren**, Jietian Guo, Shiliang Pu, Weiming Lu, MProto: Multi-Prototype Network with Denoised Optimal Transport for Distantly Supervised Named Entity Recognition， EMNLP 2023     
+5.  Liang Qiao, Zaisheng Li, Zhanzhan Cheng, Peng Zhang, Shiliang Pu, Yi Niu, **Wenqi Ren**, Wenming Tan, Fei Wu, LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment, ICDAR 2021（**Best Industrial Paper Award**）   
+6.  Weijie Chen, Luojun Lin, Shicai Yang, Di Xie, Shiliang Pu, Yueting Zhuang, **Wenqi Ren**. Self-Supervised Noisy Label Learning for Source-Free Unsupervised Domain Adaptation，IROS 2022   
+7.  H Jiang, Y Xu, Z Cheng, S Pu, Y Niu, **Wenqi Ren** , F Wu, W Tan, Reciprocal Feature Learning via Explicit and Implicit Tasks in Scene Text Recognition, ICDAR 2021    
+8. **Ren W**, Qu Y, Pei J, et al. In vivo detection of cervical intraepithelial neoplasia by multimodal colposcopy[C]//SPIE BiOS. International Society for Optics and Photonics, 2016  
+9. **Ren W**, Zhang Z, Wu Q, et al. A simultaneous multimodal imaging system for tissue functional parameters[C]//SPIE BiOS. International Society for Optics and Photonics, 2014  
+10. Yu Z,**Ren W**, Gan Q, et al. Image-guided cold atmosphere plasma (CAP) therapy for cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2016   
+11. Qu Y, **Ren W**, Liu S, et al. Polarized hyperspectral imaging system for in vivo detection of vulvar lichen sclerosis[C]//SPIE BiOS. International Society for Optics and Photonics, 2016   
+12. Zhang Z, **Ren W**, Yu Z, et al. Image-guided plasma therapy of cutaneous wound[C]//SPIE BiOS. International Society for Optics and Photonics, 2014   
 
 ### **Soccer Career**
 #### *Team Honors*
